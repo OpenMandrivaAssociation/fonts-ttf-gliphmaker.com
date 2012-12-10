@@ -46,3 +46,10 @@ rm -rf $RPM_BUILD_ROOT
 %{_sysconfdir}/X11/fontpath.d/ttf-gliphmaker.com:pri=50
 
 
+
+
+%changelog
+* Fri Jul 22 2011 Sergey Zhemoitel <serg@mandriva.org> 1.0-1mdv2012.0
++ Revision: 690971
+- imported package fonts-ttf-gliphmaker.com
+
