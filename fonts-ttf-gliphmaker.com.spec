@@ -3,7 +3,7 @@
 Summary: Fonts from gliphmaker.com Web-site
 Name: fonts-ttf-gliphmaker.com
 Version: 1.0
-Release: 4
+Release: 5
 License: Other/Non-commertial
 Group: System/Fonts/True type
 URL: http://www.gliphmaker.com/
