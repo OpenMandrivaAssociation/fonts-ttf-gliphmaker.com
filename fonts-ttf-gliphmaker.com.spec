@@ -6,7 +6,7 @@ Version: 1.0
 Release: 6
 License: Other/Non-commertial
 Group: System/Fonts/True type
-URL: http://www.gliphmaker.com/
+URL: https://www.gliphmaker.com/
 Source0: %{pkgname}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
